@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student working at the Hive Helsinki campus which is a part of the 42 network. 
+I am studying C and C++ while also exploring other things through personal projects.
+I aspire to be a game developer, and I am learning about the topic, through personal projects such as game modding, exploring tools like unreal and unity, as well as participating in things like gamejams. 
+
