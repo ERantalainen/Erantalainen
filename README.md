@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student working at the Hive Helsinki campus which is a part of the 42 network. 
-I am studying C and C++ while also exploring other things through personal projects.
-I aspire to be a game developer, and I am learning about the topic, through personal projects such as game modding, exploring tools like unreal and unity, as well as participating gamejams. 
+I am currently a student at the Hive Helsinki, focusing on C and C++ as a core part of my studies.
+I aspire to be a game developer. In my freetime I am studying tools like unity, and unreal as well as participating in gamejams and creating hobby projects.
+
 
