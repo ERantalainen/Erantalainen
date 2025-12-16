@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+## About me
+
+- Student at Hive Helsinki
+- Interested in game development, both technical and gameplay sides
+- Working with a wide variety of tools and platforms to create a strong baseline skills.
 
 <!--
 **ERantalainen/Erantalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at the Hive Helsinki, focusing on C and C++ as a core part of my studies.
-I aspire to be a game developer. In my freetime I am studying tools like unity, and unreal as well as participating in gamejams and creating hobby projects.
+
 
 
