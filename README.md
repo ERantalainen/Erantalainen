@@ -2,7 +2,8 @@
 
 ## About me
 
-- Student at Hive Helsinki
+- Student at Hive Helsinki, learning C and C++ and other vital skills of a software developer.
+- Tackling new technologies and learning other languages through personal hobby projects.
 - Interested in game development, both technical and gameplay sides
 - Working with a wide variety of tools and platforms to create a strong baseline skills.
 
